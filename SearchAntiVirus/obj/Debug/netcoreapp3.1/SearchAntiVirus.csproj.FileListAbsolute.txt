@@ -1,0 +1,13 @@
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.csprojAssemblyReference.cache
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.AssemblyInfoInputs.cache
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.AssemblyInfo.cs
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.csproj.CoreCompileInputs.cache
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\bin\Debug\netcoreapp3.1\SearchAntiVirus.exe
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\bin\Debug\netcoreapp3.1\SearchAntiVirus.deps.json
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\bin\Debug\netcoreapp3.1\SearchAntiVirus.runtimeconfig.json
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\bin\Debug\netcoreapp3.1\SearchAntiVirus.runtimeconfig.dev.json
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\bin\Debug\netcoreapp3.1\SearchAntiVirus.dll
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\bin\Debug\netcoreapp3.1\SearchAntiVirus.pdb
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.dll
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.pdb
+C:\PROJETOS\DotNet\SearchAntiVirus\SearchAntiVirus\SearchAntiVirus\obj\Debug\netcoreapp3.1\SearchAntiVirus.genruntimeconfig.cache
